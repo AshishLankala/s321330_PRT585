@@ -35,3 +35,5 @@ C:\Users\Administrator\Documents\GitHub\s321330_PRT585\week1HelloWorldMVC\task1\
 C:\Users\Administrator\Documents\GitHub\s321330_PRT585\week1HelloWorldMVC\task1\MvcMovie\obj\Debug\netcoreapp3.1\MvcMovie.pdb
 C:\Users\Administrator\Documents\GitHub\s321330_PRT585\week1HelloWorldMVC\task1\MvcMovie\obj\Debug\netcoreapp3.1\MvcMovie.genruntimeconfig.cache
 C:\Users\Administrator\Documents\GitHub\s321330_PRT585\week1HelloWorldMVC\task1\MvcMovie\obj\Debug\netcoreapp3.1\MvcMovie.csproj.CopyComplete
+C:\Users\Administrator\Documents\GitHub\s321330_PRT585\week1HelloWorldMVC\task1\MvcMovie\obj\Debug\netcoreapp3.1\Razor\Views\HelloWorld\Index.cshtml.g.cs
+C:\Users\Administrator\Documents\GitHub\s321330_PRT585\week1HelloWorldMVC\task1\MvcMovie\obj\Debug\netcoreapp3.1\Razor\Views\HelloWorld\welcome.cshtml.g.cs
