@@ -1,4 +1,4 @@
-using System;
+﻿using System;
 
 namespace MvcMovie.Models
 {
@@ -9,3 +9,4 @@ namespace MvcMovie.Models
         public bool ShowRequestId => !string.IsNullOrEmpty(RequestId);
     }
 }
+
