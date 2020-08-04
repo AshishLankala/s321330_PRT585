@@ -2,7 +2,12 @@
   "ExpandedNodes": [
     "",
     "\\week1HelloWorldMVC",
-    "\\week1HelloWorldMVC\\task1"
+    "\\week1HelloWorldMVC\\task1",
+    "\\week1HelloWorldMVC\\task1\\MvcMovie",
+    "\\week1HelloWorldMVC\\task1\\MvcMovie\\Migrations",
+    "\\week1HelloWorldMVC\\task1\\MvcMovie\\Models",
+    "\\week1HelloWorldMVC\\task1\\MvcMovie\\obj",
+    "\\week1HelloWorldMVC\\task1\\MvcMovie\\Properties"
   ],
   "SelectedNode": "\\week1HelloWorldMVC\\task1",
   "PreviewInSolutionExplorer": false
